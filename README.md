@@ -1,6 +1,6 @@
 # Introduction to the Command Line
 
-**Instructor:** Viswanathan Satheesh
+**Instructor:** Viswanathan <u>Satheesh</u>
 
 **Affiliation:** Bioinformatics Facility, Iowa State University
 
