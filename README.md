@@ -1,5 +1,11 @@
 # Introduction to the Command Line
 
+**Instructor:** Viswanathan Satheesh
+
+**Affiliation:** Bioinformatics Facility, Iowa State University
+
+**Contact:** bioinformatics@iastate.edu | satheesh@iastate.edu
+
 - Focus: CLI concepts, navigation, file viewing and operations, permissions, search, redirection, pipes, and environment variables
 
 ## Quick start to access the workshop environment
