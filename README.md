@@ -42,7 +42,7 @@
 ## Layout
 
 - `exercises/` — step-by-step workshop tasks
-- `scripts/` — sample shell script
+- `scripts/` — workspace created in Exercise 3 for participant-written shell scripts
 - `solutions/` — reference answers
 - `data/` — instructor-provided sample inputs required by the exercises
 

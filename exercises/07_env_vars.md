@@ -2,7 +2,7 @@
 
 **Goals:** Inspect `HOME` and `PATH`, and create and export shell variables.
 
-**Run these tasks from the repository root.**
+**Run these tasks from the repository root after completing Exercises 3 and 4.**
 
 ## Key concepts
 
